@@ -16,7 +16,7 @@
 			type="text"
          bind:value={todo}
 			name="todo"
-			placeholder="Watcha gotta do?"
+			placeholder="What do you want to do?"
 			class="appearance-none shadow-sm border border-gray-20 p2 focus:outline-none focus:border-gray-500 rounded-lg"
 		/>
 	</div>
